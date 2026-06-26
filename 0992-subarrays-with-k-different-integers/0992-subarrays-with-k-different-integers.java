@@ -3,15 +3,17 @@ class Solution {
         return findDistinct(nums,k)-findDistinct(nums,k-1);
     }
     private int findDistinct(int[]nums,int k){
-      HashMap<Integer,Integer> unique= new HashMap<>();
+      int [] unique = new int[nums.length+1];
       int ans =0;
       int left=0;
+      int distinct =0;
       for(int right =0;right<nums.length;right++){
-        unique.put(nums[right],unique.getOrDefault(nums[right],0)+1);
-        while(unique.size()>k){
-            unique.put(nums[left],unique.getOrDefault(nums[left],0)-1);
-            if(unique.get(nums[left])==0)
-            unique.remove(nums[left]);
+        unique[nums[right]]++;
+        if(unique[nums[right]]==1) distinct++;
+        while(distinct>k){
+            unique[nums[left]]--;
+            if(unique[nums[left]]==0)
+            distinct--;
             left++;  
         }
         ans += right-left+1;
