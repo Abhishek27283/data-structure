@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Abhishek27283/data-structure/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Abhishek27283/data-structure/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek27283/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek27283/data-structure/tree/master/0232-implement-queue-using-stacks) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek27283/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Abhishek27283/data-structure/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
