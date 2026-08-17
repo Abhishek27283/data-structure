@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek27283/data-structure/tree/master/0011-container-with-most-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek27283/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek27283/data-structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek27283/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
@@ -99,11 +101,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Euclidean Algorithm
 |  |
@@ -113,4 +117,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
