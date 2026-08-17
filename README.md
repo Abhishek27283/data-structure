@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,4 +100,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
