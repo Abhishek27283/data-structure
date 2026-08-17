@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek27283/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
