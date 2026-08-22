@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek27283/data-structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek27283/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek27283/data-structure/tree/master/0011-container-with-most-water) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 ## Heap (Priority Queue)
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Matrix
 |  |
 | ------- |
