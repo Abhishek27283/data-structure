@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Enumeration
@@ -129,10 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 | [2427-number-of-common-factors](https://github.com/Abhishek27283/data-structure/tree/master/2427-number-of-common-factors) |
 ## Primality Test
 |  |
@@ -159,4 +164,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
+## Least Common Multiple
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
