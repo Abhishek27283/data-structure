@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek27283/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek27283/data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abhishek27283/data-structure/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek27283/data-structure/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek27283/data-structure/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
