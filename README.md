@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek27283/data-structure/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Abhishek27283/data-structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2413-smallest-even-multiple](https://github.com/Abhishek27283/data-structure/tree/master/2413-smallest-even-multiple) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek27283/data-structure/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 ## Heap (Priority Queue)
@@ -177,9 +179,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Least Common Multiple
 |  |
 | ------- |
+| [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
 | ------- |
+| [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
 <!---LeetCode Topics End-->
