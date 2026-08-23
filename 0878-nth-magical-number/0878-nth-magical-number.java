@@ -1,6 +1,6 @@
 class Solution {
     public int nthMagicalNumber(int n, int a, int b) {
-        final long MOD = 1_000_000_007L;
+       
         long ab = lcm(a,b);
         long left = 0;
         long right = (long)n * Math.min(a,b);
@@ -15,7 +15,7 @@ class Solution {
                 left = mid+1;
             }            
         }
-        return (int)(left%MOD);
+        return (int)(left%1000000007);
         
     }
     private long lcm (long a, long b){
