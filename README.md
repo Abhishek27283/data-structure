@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Abhishek27283/data-structure/tree/master/0769-max-chunks-to-make-sorted) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek27283/data-structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek27283/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Abhishek27283/data-structure/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek27283/data-structure/tree/master/0011-container-with-most-water) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Abhishek27283/data-structure/tree/master/0769-max-chunks-to-make-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Abhishek27283/data-structure/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Abhishek27283/data-structure/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Abhishek27283/data-structure/tree/master/0232-implement-queue-using-stacks) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Abhishek27283/data-structure/tree/master/0769-max-chunks-to-make-sorted) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek27283/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Abhishek27283/data-structure/tree/master/0769-max-chunks-to-make-sorted) |
 ## Number Theory
 |  |
 | ------- |
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Abhishek27283/data-structure/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Abhishek27283/data-structure/tree/master/0769-max-chunks-to-make-sorted) |
 ## Matrix
 |  |
 | ------- |
