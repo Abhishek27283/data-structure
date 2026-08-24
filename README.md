@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek27283/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhishek27283/data-structure/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Abhishek27283/data-structure/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek27283/data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Abhishek27283/data-structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek27283/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek27283/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhishek27283/data-structure/tree/master/0013-roman-to-integer) |
+| [0205-isomorphic-strings](https://github.com/Abhishek27283/data-structure/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek27283/data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sliding Window
