@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhishek27283/data-structure/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhishek27283/data-structure/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Abhishek27283/data-structure/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishek27283/data-structure/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Abhishek27283/data-structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Abhishek27283/data-structure/tree/master/0567-permutation-in-string) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishek27283/data-structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhishek27283/data-structure/tree/master/0540-single-element-in-a-sorted-array) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Abhishek27283/data-structure/tree/master/0992-subarrays-with-k-different-integers) |
 ## Binary Search
 |  |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Abhishek27283/data-structure/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -212,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
