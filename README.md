@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek27283/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhishek27283/data-structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhishek27283/data-structure/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhishek27283/data-structure/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhishek27283/data-structure/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek27283/data-structure/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhishek27283/data-structure/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Abhishek27283/data-structure/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
