@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Abhishek27283/data-structure/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhishek27283/data-structure/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhishek27283/data-structure/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/Abhishek27283/data-structure/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhishek27283/data-structure/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhishek27283/data-structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek27283/data-structure/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Abhishek27283/data-structure/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
