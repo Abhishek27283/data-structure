@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Abhishek27283/data-structure/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/Abhishek27283/data-structure/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhishek27283/data-structure/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0878-nth-magical-number](https://github.com/Abhishek27283/data-structure/tree/master/0878-nth-magical-number) |
 | [1201-ugly-number-iii](https://github.com/Abhishek27283/data-structure/tree/master/1201-ugly-number-iii) |
@@ -244,4 +245,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Abhishek27283/data-structure/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/Abhishek27283/data-structure/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek27283/data-structure/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Abhishek27283/data-structure/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
