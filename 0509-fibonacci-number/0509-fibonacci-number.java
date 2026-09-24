@@ -1,11 +1,10 @@
 class Solution {
-    private int fibb(int n){
-     if(n==0 || n==1)return n;
+    private int findfib(int n){
+        if(n==0||n==1) return n;
 
-      return fibb(n-1)+fibb(n-2);
+        return findfib(n-1)+ findfib(n-2);
     }
     public int fib(int n) {
-     return  fibb(n) ;
-       
+       return findfib(n) ;
     }
 }
