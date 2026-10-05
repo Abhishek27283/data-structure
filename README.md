@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Abhishek27283/data-structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Abhishek27283/data-structure/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhishek27283/data-structure/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/Abhishek27283/data-structure/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Abhishek27283/data-structure/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhishek27283/data-structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Abhishek27283/data-structure/tree/master/0287-find-the-duplicate-number) |
@@ -267,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Abhishek27283/data-structure/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/Abhishek27283/data-structure/tree/master/0077-combinations) |
+| [0216-combination-sum-iii](https://github.com/Abhishek27283/data-structure/tree/master/0216-combination-sum-iii) |
 <!---LeetCode Topics End-->
